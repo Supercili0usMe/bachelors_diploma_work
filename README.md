@@ -1,6 +1,6 @@
 # portfolio
 
-This is my Data Scientist roadmap 
+This repo about all my Data science projects 
 
 ## Projects
 ### Smoking and drinking classification
