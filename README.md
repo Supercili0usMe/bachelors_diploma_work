@@ -1,8 +1,7 @@
-# portfolio
+# Bachelor's diploma work
 
-This repo about all my Data science projects 
+This repo is about my SUAI bachelor degree.
 
-## Projects
 ### Smoking and drinking classification
 In this project, I have studied the basic classification methods of machine learning, such as
 * K-nearest neighbors (kNN);
